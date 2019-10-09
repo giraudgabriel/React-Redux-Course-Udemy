@@ -27,5 +27,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "gabrielmulticontas <gabriel@multicontas.com>",
+  "license": "MIT"
 }
